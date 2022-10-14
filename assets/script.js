@@ -2,7 +2,7 @@ let topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 
 for (let x = 0; x < topics.length; x++) {
     let topic = topics[x];
-    
+
     if (topic === 'HTML') {
         console.log("Let's study HTML!");
     } else if (topic === 'CSS') {
@@ -16,3 +16,4 @@ for (let x = 0; x < topics.length; x++) {
     }
 }
 
+//
